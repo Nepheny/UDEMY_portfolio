@@ -25,7 +25,7 @@ list-style:none;
 .red-divider{
     width: 100px;
     height: 2px;
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
     margin: 0 auto;
 }
 .white-divider{
@@ -37,7 +37,7 @@ list-style:none;
 
                                     /* MENU */
 .navbar{
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
     font-size: 12px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -55,7 +55,7 @@ list-style:none;
     padding: 0.8rem;
 }
 .navbar .nav-link:hover, .navbar .nav-link.active{
-    color: #c22426 !important;
+    color: #EC4E41 !important;
     background: #fff !important;
 }
 .navbar .navbar-collapse{
@@ -70,7 +70,7 @@ list-style:none;
                                     /* ABOUT */
 #about{
     padding-top: 100px;
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
 }
 #about .heading h1{
     color: #fff;
@@ -99,7 +99,7 @@ list-style:none;
 }
 .button1:hover{
     background: #fff;
-    color: #d82c2e;
+    color: #EC4E41;
     text-decoration: none;
     border: 2px inset #fff;
 }
@@ -115,7 +115,7 @@ list-style:none;
     position: relative;
 }
 #skills .progress-bar{
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
 }
 #skills .progress h6{
     text-shadow: 2px 2px 1px #000;
@@ -127,13 +127,13 @@ list-style:none;
     width: 100%;
 }
 #skills .heading h2{
-    color: #c22426;
+    color: #EC4E41;
     padding-top: 20px;
 }
 
                                     /* EXPERIENCE */
 #experience{
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
 }
 #experience .heading h2{
     color: #fff;
@@ -165,7 +165,7 @@ list-style:none;
     display: table;
 }
 .timeline li .timeline-badge{
-    color: #c22426;
+    color: #EC4E41;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -222,7 +222,7 @@ list-style:none;
     font-size: 20px;
 }
 .timeline-heading h4{
-    color: #c22426;
+    color: #EC4E41;
     font-size: 16px;
 }
 
@@ -231,7 +231,7 @@ list-style:none;
     background: #fff;
 }
 #formation .heading h2{
-    color: #c22426;
+    color: #EC4E41;
     padding-top: 20px;
 }
 .formation-block{
@@ -253,7 +253,7 @@ list-style:none;
     font-size: 40px;
 }
 .formation-block h3{
-    color: #c22426;
+    color: #EC4E41;
 }
 .formation-block h4{
     margin-bottom: 20px;
@@ -267,7 +267,7 @@ list-style:none;
 }
 .formation-block p a:hover{
     text-decoration: none;
-    color: #c22426;
+    color: #EC4E41;
 }
 .formation-block .red-divider{
     margin-bottom: 20px;
@@ -275,7 +275,7 @@ list-style:none;
 
                                     /* PORTFOLIO */
 #portfolio{
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
 }
 #portfolio .heading h2{
     color: #fff;
@@ -300,35 +300,35 @@ list-style:none;
     background: #fff;
 }
 #recommandations .heading h2{
-    color: #c22426;
+    color: #EC4E41;
     padding-top: 20px;
 }
 #myCarousel{
     padding-bottom: 60px;
 }
 #myCarousel .carousel-item h3{
-    color: #c22426;
+    color: #EC4E41;
     font-style: italic;
 }
 .carousel-indicators li{
-    border: solid 1px #c22426;
+    border: solid 1px #EC4E41;
     border-radius: 7px;
     width: 14px;
     height: 14px;
 }
 .carousel-indicators li.active{
-    background: #c22426;
+    background-image: url('../images/red-bg.png');
     border: none;
 }
 .carousel-control-prev, .carousel-control-next{
-    color: #c22426;
+    color: #EC4E41;
     font-size: 30px;
     opacity: 0.5;
     top: -50%;
 }
 .carousel-control-prev:focus, .carousel-control-next:focus,
 .carousel-control-prev:hover, .carousel-control-next:hover{
-    color: #c22426;
+    color: #EC4E41;
     opacity: 0.5;
 }
 
@@ -340,12 +340,12 @@ footer{
 footer a{
     font-size: 25px;
     margin: 20px;
-    color: #c22426;
+    color: #EC4E41;
     line-height: 80px;
 }
 footer a:hover{
     font-size: 27px;
-    color: #c22426;
+    color: #EC4E41;
 }
 footer h5{
     color: #fff;
