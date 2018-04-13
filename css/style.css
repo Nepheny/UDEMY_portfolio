@@ -55,7 +55,7 @@ list-style:none;
     padding: 0.8rem;
 }
 .navbar .nav-link:hover, .navbar .nav-link.active{
-    color: #EC4E41 !important;
+    color: #c22426 !important;
     background: #fff !important;
 }
 .navbar .navbar-collapse{
@@ -99,7 +99,7 @@ list-style:none;
 }
 .button1:hover{
     background: #fff;
-    color: #EC4E41;
+    color: #d82c2e;
     text-decoration: none;
     border: 2px inset #fff;
 }
@@ -127,7 +127,7 @@ list-style:none;
     width: 100%;
 }
 #skills .heading h2{
-    color: #EC4E41;
+    color: #c22426;
     padding-top: 20px;
 }
 
@@ -165,7 +165,7 @@ list-style:none;
     display: table;
 }
 .timeline li .timeline-badge{
-    color: #EC4E41;
+    color: #c22426;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -222,7 +222,7 @@ list-style:none;
     font-size: 20px;
 }
 .timeline-heading h4{
-    color: #EC4E41;
+    color: #c22426;
     font-size: 16px;
 }
 
@@ -231,7 +231,7 @@ list-style:none;
     background: #fff;
 }
 #formation .heading h2{
-    color: #EC4E41;
+    color: #c22426;
     padding-top: 20px;
 }
 .formation-block{
@@ -253,7 +253,7 @@ list-style:none;
     font-size: 40px;
 }
 .formation-block h3{
-    color: #EC4E41;
+    color: #c22426;
 }
 .formation-block h4{
     margin-bottom: 20px;
@@ -267,7 +267,7 @@ list-style:none;
 }
 .formation-block p a:hover{
     text-decoration: none;
-    color: #EC4E41;
+    color: #c22426;
 }
 .formation-block .red-divider{
     margin-bottom: 20px;
@@ -295,41 +295,50 @@ list-style:none;
     -webkit-filter: none;
 }
 
-                                    /* RECOMMANDATIONS */
-#recommandations{
+                                    /* CENTRES D'INTERETS */
+#interets{
     background: #fff;
 }
-#recommandations .heading h2{
-    color: #EC4E41;
+#interets .heading h2{
+    color: #c22426;
     padding-top: 20px;
 }
 #myCarousel{
     padding-bottom: 60px;
 }
 #myCarousel .carousel-item h3{
-    color: #EC4E41;
+    color: #c22426;
     font-style: italic;
 }
 .carousel-indicators li{
-    border: solid 1px #EC4E41;
+    border: solid 1px #c22426;
     border-radius: 7px;
     width: 14px;
     height: 14px;
 }
 .carousel-indicators li.active{
-    background-image: url('../images/red-bg.png');
+    background: #c22426;
     border: none;
 }
 .carousel-control-prev, .carousel-control-next{
-    color: #EC4E41;
+    color: #c22426;
     font-size: 30px;
     opacity: 0.5;
     top: -50%;
 }
 .carousel-control-prev:focus, .carousel-control-next:focus,
 .carousel-control-prev:hover, .carousel-control-next:hover{
-    color: #EC4E41;
+    color: #c22426;
     opacity: 0.5;
+}
+
+                                    /* CONTACT */
+#contact {
+    background-image: url('../images/red-bg.png');
+}
+#contact .heading h2{
+    color: #fff;
+    padding-top: 20px;
 }
 
                                     /* FOOTER */
@@ -340,12 +349,12 @@ footer{
 footer a{
     font-size: 25px;
     margin: 20px;
-    color: #EC4E41;
+    color: #c22426;
     line-height: 80px;
 }
 footer a:hover{
     font-size: 27px;
-    color: #EC4E41;
+    color: #c22426;
 }
 footer h5{
     color: #fff;
