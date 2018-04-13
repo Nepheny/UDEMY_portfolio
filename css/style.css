@@ -340,6 +340,15 @@ list-style:none;
     color: #fff;
     padding-top: 20px;
 }
+.contact-p {
+    color: white;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
                                     /* FOOTER */
 footer{
