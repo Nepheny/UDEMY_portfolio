@@ -75,16 +75,22 @@ list-style:none;
 #about .heading h1{
     color: #fff;
     text-transform: uppercase;
-    padding-top: 20px;
+    padding: 20px 0;
     text-shadow: 1px 1px #000;
 }
 #about .heading h3{
-    color: #000;
+    color: #fff;
+    font-weight: 100;
+    padding-bottom: 20px;
 }
 .profile-picture{
     text-align: center;
     margin: 0 auto;
     float: none;
+}
+.p-about {
+    color: #fff;
+    padding: 0 25%;
 }
 .button1{
     font-weight: bold;
@@ -353,13 +359,13 @@ list-style:none;
                                     /* FOOTER */
 footer{
     background: #333;
-    padding: 20px 0 40px;
+    padding: 10px 0 20px;
 }
 footer a{
     font-size: 25px;
     margin: 20px;
     color: #c22426;
-    line-height: 80px;
+    line-height: 60px;
 }
 footer a:hover{
     font-size: 27px;
