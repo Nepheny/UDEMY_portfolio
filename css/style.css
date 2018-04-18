@@ -290,6 +290,10 @@ list-style:none;
 #portfolio .col-md-4{
     padding-bottom: 30px;
 }
+#portfolio p{
+    color: #fff;
+    text-align: center;
+}
 #portfolio .thumbnail img{
     width: 100%;
     height: 100%;
