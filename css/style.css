@@ -191,6 +191,22 @@ list-style:none;
     width: 50%;
     float: right;
 }
+/*@media screen and (max-width: 768px){
+    .timeline-panel-container-inverted{
+        float: left;
+    }
+    #inverted:after{
+        position:absolute;
+        top: 27px;
+        right: -14px;
+        display: inline-block;
+        border-top: 14px solid transparent;
+        border-left: 14px solid #fff;
+        border-right: 0 solid #fff;
+        border-bottom: 14px solid transparent;
+        content: " "; 
+    }
+}*/
 .timeline-panel{
     width:90%;
     float: right;
